@@ -4,8 +4,8 @@
 [程序员小品：人生巅峰](https://github.com/uiiang/996Note/blob/master/%E5%89%A7%E6%9C%AC/%E4%BA%BA%E7%94%9F%E5%B7%85%E5%B3%B0-%E5%B0%8F%E5%93%81%E5%89%A7%E6%9C%AC.md)
 
 
-![image](https://github.com/uiiang/996Note/blob/master/img/wx.jpg =200x300)
-![image](https://github.com/uiiang/996Note/blob/master/img/zfb.jpg =200x300)
+![image](https://github.com/uiiang/996Note/blob/master/img/wx.jpg){:height="100" width="100"}
+![image](https://github.com/uiiang/996Note/blob/master/img/zfb.jpg){:height="100" width="100"}
 ## License
 
 ```
