@@ -1,7 +1,10 @@
 # 996Note
 程序员随笔，小说，剧本
 
-##[程序员小品：你要奋斗](https://github.com/uiiang/996Note/blob/master/%E5%89%A7%E6%9C%AC/%E4%BD%A0%E8%A6%81%E5%A5%8B%E6%96%97-%E5%B0%8F%E5%93%81%E5%89%A7%E6%9C%AC.md)
+## [程序员小品：你要奋斗](https://github.com/uiiang/996Note/blob/master/%E5%89%A7%E6%9C%AC/%E4%BD%A0%E8%A6%81%E5%A5%8B%E6%96%97-%E5%B0%8F%E5%93%81%E5%89%A7%E6%9C%AC.md)
+
+
+
 
 <img src="https://github.com/uiiang/996Note/blob/master/img/wx.jpg" width="200"/></a>
 <img src="https://github.com/uiiang/996Note/blob/master/img/zfb.jpg" width="200"/></a>
